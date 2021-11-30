@@ -1,6 +1,6 @@
 # PEA_Tsp_1
 
-Aby załadować graf należy podać ścieżkę absolutną lub w folderze projektu cmake-build-debug i odnośić po jego nazwie.
+Aby załadować graf należy podać ścieżkę absolutną lub w folderze projektu cmake-build-debug i odnosić się po jego nazwie.
 Pliki z którch można kożystać podczas testów bez ich uprzedniego dodawania:
 berlin63.xml
 br17.xml 

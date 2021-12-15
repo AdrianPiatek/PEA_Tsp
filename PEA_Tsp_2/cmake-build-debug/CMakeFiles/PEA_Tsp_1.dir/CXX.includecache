@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp/PEA_Tsp_1/main.cpp
+iostream
+-
+cmath
+-
+chrono
+-
+vector
+-
+pugixml.hpp
+D:/cpp/PEA_Tsp_1/pugixml.hpp
+
+D:/cpp/PEA_Tsp_1/pugiconfig.hpp
+
+D:/cpp/PEA_Tsp_1/pugixml.hpp
+../PEA_Tsp_1/pugiconfig.hpp
+D:/cpp/PEA_Tsp_1/pugiconfig.hpp
+stddef.h
+-
+exception
+-
+iterator
+-
+iosfwd
+-
+string
+-
+

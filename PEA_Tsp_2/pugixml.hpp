@@ -18,7 +18,7 @@
 #endif
 
 // Include user configuration file (this can define various configuration macros)
-#include "../PEA_Tsp_1/pugiconfig.hpp"
+#include "../PEA_Tsp_2/pugiconfig.hpp"
 
 #ifndef HEADER_PUGIXML_HPP
 #define HEADER_PUGIXML_HPP
